@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background: linear-gradient(cyan, pink, beige);
+}
+.heading{
+    padding-top: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.quote{
+    font-style: italic;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.row{
+    padding: 2rem 10%;
+}
+.img{
+    margin-bottom: 2rem;
+}
+.img1{
+    width: 50%;
+    border-radius: 35%;
+}
+.img2{
+    width: 50%;
+    border-radius: 35%;
+}
+#res{
+    font-size: 4rem;
+}
+.score{
+    font-size: 3rem;
+}
+.link{
+    text-decoration: none;
+    padding: 0 2rem;
+    font-size: 1.5rem;
+    color:  orchid;
+}
+a:hover{
+    color: orangered;
+}
+.copyright{
+    padding: 0 0 1rem 0;
+    color: grey;
+}
